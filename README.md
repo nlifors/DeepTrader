@@ -10,9 +10,9 @@ Versions of the agent:
 
 All data input files are located in the ./data folder. 
 Command arguments:
-1: Input data file path
-2: Output data file path
-3: Mode: [train] to train the agent and save the model params. [test] to test the agent on the previously saved model params.
+# Input data file path
+# Output data file path
+# Mode: [train] to train the agent and save the model params. [test] to test the agent on the previously saved model params.
 
 
 To run:
